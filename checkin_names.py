@@ -1,29 +1,43 @@
 from geopy.geocoders import Nominatim
+from geopy.exc import GeocoderTimedOut
 from time import sleep
 from random import random
 
-geolocator = Nominatim()
 
-count = 0
+def fetch():
+    geolocator = Nominatim()
 
-f = open('checkin_latlon.txt', 'r')
-nf = open('checkin_locations.txt', 'r')
+    count = 0
 
-for nline in nf:
-    count += 1
-    print(f.readline())
+    f = open('checkin_latlon.txt', 'r')
+    nf = open('checkin_locations.txt', 'r')
 
-print("Count: {}".format(count))
+    for nline in nf:
+        count += 1
+        print(f.readline())
 
-nf.close()
+    print("Count: {}".format(count))
 
-nf = open('checkin_locations.txt', 'a')
+    nf.close()
 
+    nf = open('checkin_locations.txt', 'a')
 
-for line in f:
-    location = geolocator.reverse(line)
-    address = location.address
-    new_line = line[:-1] + ',"' + address + '"\n'
-    nf.write(new_line)
-    sleep(random()*3)
-    print(new_line)
+    for line in f:
+        try:
+            location = geolocator.reverse(line)
+            address = location.address
+            new_line = line[:-1] + ',"' + address + '"\n'
+            nf.write(new_line)
+            sleep(random())
+            print(new_line)
+        except GeocoderTimedOut:
+            nf.close()
+            f.close()
+            sleep(10)
+            fetch()
+
+    nf.close()
+    f.close()
+
+if __name__ == '__main__':
+    fetch()
