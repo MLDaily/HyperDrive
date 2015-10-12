@@ -77,6 +77,7 @@ def begin():
     distance = get_distance(initial, final)
     print("\nDistance:")
     print(distance)
+    return initial, final
 
 if __name__ == "__main__":
     begin()
