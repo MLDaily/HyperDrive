@@ -45,40 +45,59 @@ def get_distance(initial, final):
         distance.append(d)
     return distance
 
-def begin():
+def write_to_file(fname, x, uid):
+    f = open(fname, "a")
+    for i in x:
+        f.write(str(uid) + ":" + str(i[0]) + "," + str(i[1]) + ":")
+    f.write("\n")
+    f.close()
+
+
+def begin(folder = "000"):
     path = os.getcwd() 
     path = path[:-7]
     path += "/gps data/"
-    folder = "000"
     os.chdir(path + folder + "/Trajectory/coord/")
     nof = len(os.listdir())
-    os.chdir(path)
-    fno = 1
-    filename = str(fno) + ".txt"
-    f = open(folder + "/Trajectory/coord/" + filename, "r")
-    lat = []
-    lon = []
-    tim = []
+    print("nof: " + str(nof))
+    # os.chdir(path)
+    for fno in range(1, nof):
+        filename = str(fno) + ".txt"
+        # f = open(folder + "/Trajectory/coord/" + filename, "r")
+        f = open(filename, "r")
+        lat = []
+        lon = []
+        tim = []
 
-    for i in f:
-        coord = i.split(",")
-        lat.append(float(coord[0]))
-        lon.append(float(coord[1]))
-        x = coord[2]
-        x = x[1:-2]
-        tim.append(x)
-    
-    f.close()
-    initial, final = get_initial_final(lat, lon, tim)
-    print("Initial:")
-    print(initial)
-    print("\nFinal:")
-    print(final)
-    distance = get_distance(initial, final)
-    print("\nDistance:")
-    print(distance)
-    return initial, final
+        for i in f:
+            coord = i.split(",")
+            lat.append(float(coord[0]))
+            lon.append(float(coord[1]))
+            x = coord[2]
+            x = x[1:-2]
+            tim.append(x)
+        
+        f.close()
+        initial, final = get_initial_final(lat, lon, tim)
+        # print("Initial:")
+        # print(initial)
+        # print("\nFinal:")
+        # print(final)
+        distance = get_distance(initial, final)
+        # print("\nDistance:")
+        # print(distance)
+
+        write_to_file("initial.txt", initial, fno)
+        write_to_file("final.txt", final, fno)
+
+
+def go():
+    for i in range(0,10):
+        path = os.getcwd()
+        fname = "00" + str(i)
+        begin(fname)
+        os.chdir(path)
 
 if __name__ == "__main__":
-    begin()
+    go()
 
