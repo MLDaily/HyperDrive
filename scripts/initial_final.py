@@ -48,8 +48,8 @@ def get_distance(initial, final):
 def write_to_file(fname, x, uid):
     f = open(fname, "a")
     for i in x:
-        f.write(str(uid) + ":" + str(i[0]) + "," + str(i[1]) + ":")
-    f.write("\n")
+        f.write(str(uid) + ":" + str(i[0]) + "," + str(i[1]) + '\n')
+    # f.write("\n")
     f.close()
 
 
