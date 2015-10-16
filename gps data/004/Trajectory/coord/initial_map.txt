@@ -1,0 +1,64 @@
+150:Celang
+153:Xiaoping Dao
+215:Autumn Garden Courtyard Hotel
+212:Ordos Gaoyuan
+154:Xiaoping Dao
+157:Pagsum Co
+159:Yake Shan
+264:Huanghuai Pingyuan
+315:Huanghuai Pingyuan
+219:Jj Inns Beijing Changchun Street
+258:Jj Inns Beijing Changchun Street
+63:Mipayuema
+238:Qinghai Sheng
+176:Ngala
+336:Huanghuai Pingyuan
+83:Huabei Pingyuan
+175:Hutongren Creative Culture Hotel
+237:Huabei Pingyuan
+231:Huabei Pingyuan
+232:Huabei Pingyuan
+213:Huanghuai Pingyuan
+379:Huanghuai Pingyuan
+390:Huabei Pingyuan
+95:Huabei Pingyuan
+257:Qinghai Sheng
+180:Huanghuai Pingyuan
+186:Huabei Pingyuan
+97:Huabei Pingyuan
+325:Huabei Pingyuan
+367:Huabei Pingyuan
+328:Dobug
+365:Huanghuai Pingyuan
+277:Jj Inns Beijing Changchun Street
+349:Huabei Pingyuan
+202:Huabei Pingyuan
+201:Jj Inns Beijing Anzhenli
+145:Xiaoping Dao
+141:Xiaoping Dao
+343:Huanghuai Pingyuan
+370:Huabei Pingyuan
+148:Xiaoping Dao
+149:Shandong Bandao
+383:Ngala
+124:Kunlun Mountains
+125:Huabei Pingyuan
+228:Autumn Garden Courtyard Hotel
+388:Huabei Pingyuan
+224:Huabei Pingyuan
+106:Huabei Pingyuan
+162:Xiaoping Dao
+163:Xiaoping Dao
+15:Qaidam Pendi
+58:Huanghuai Pingyuan
+30:Huanghuai Pingyuan
+363:Mipayuema
+236:Huanghuai Pingyuan
+369:Huabei Pingyuan
+259:Huanghuai Pingyuan
+353:Jj Inns Beijing Changchun Street
+352:Huabei Pingyuan
+298:Burisagang
+299:Bailha Goin
+241:Huanghuai Pingyuan
+240:Huanghuai Pingyuan
