@@ -34,36 +34,43 @@ def locations_map(folder = '000'):
         values = f.read().split('\n')
 
         count =0
-        try:
-            for v in values:
+        for v in values:
+            try:
                 ids = v.split(':')[0]
                 latlong = v.split(':')[1].split(',')
+                print '.',
                 for loc in locations.keys():
                     if locations[loc][0] in latlong[0] or latlong[0] in locations[loc][0]:
                         if locations[loc][1] in latlong[1] or latlong[1] in locations[loc][1]:
                             map_loc[ids] = loc
+                            print ":"
+            except IndexError or ValueError:
+                pass
+        # print ""
+        print map_loc
+        write_to_file('initial_map.txt',map_loc)
+        
 
-                write_to_file('initial_map.txt',map_loc)
-        except IndexError:
-            pass
-
+    map_loc = {}
     with open(file_fin) as f:
         values = f.read().split('\n')
 
         count =0
-        try:
-            for v in values:
+        for v in values:
+            try:
                 ids = v.split(':')[0]
                 latlong = v.split(':')[1].split(',')
+                print '.',
                 for loc in locations.keys():
                     if locations[loc][0] in latlong[0] or latlong[0] in locations[loc][0]:
                         if locations[loc][1] in latlong[1] or latlong[1] in locations[loc][1]:
                             map_loc[ids] = loc
-
-                write_to_file('final_map.txt',map_loc)
-        except IndexError:
-            pass
-
+                            print ':'
+            except IndexError or ValueError:
+                pass
+        print map_loc
+        write_to_file('final_map.txt',map_loc)
+        
         # print len(ids), len(latlong), count
 
         

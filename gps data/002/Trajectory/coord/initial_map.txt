@@ -1,0 +1,38 @@
+150:Ngala
+157:Huabei Pingyuan
+164:Jj Inns Beijing Changchun Street
+131:Garden Inn Beijing Xi Dan
+130:Xalazakung
+110:Huabei Pingyuan
+165:Huabei Pingyuan
+69:Huanghuai Pingyuan
+80:Jiu Zhou Commercial Hotel
+81:Huanghuai Pingyuan
+84:Mipayuema
+25:Huabei Pingyuan
+106:Huanghuai Pingyuan
+43:Qinghai Sheng
+41:Huanghuai Pingyuan
+1:Nu Shan
+3:Huanghuai Pingyuan
+6:Mipayuema
+9:Huabei Pingyuan
+145:Huabei Pingyuan
+141:Huanghuai Pingyuan
+77:Huabei Pingyuan
+76:Jj Inns Beijing Changchun Street
+75:Liyuan He
+168:Huanghuai Pingyuan
+91:Tarim Pendi
+90:Qinghai Sheng
+95:Tarim Pendi
+97:Qinghai Sheng
+105:Junggar Pendi
+10:Ngala
+15:Jj Inns Beijing Changchun Street
+98:Alataw Shan
+33:Huabei Pingyuan
+32:Xalazakung
+31:Kailas Range
+30:Huanghuai Pingyuan
+160:Huabei Pingyuan
