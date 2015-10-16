@@ -1,0 +1,236 @@
+217:Junggar Pendi
+215:Autumn Garden Courtyard Hotel:Jj Inns Beijing Anzhenli
+212:Alataw Shan:Ordos Gaoyuan:Xalazakung
+213:Huanghuai Pingyuan
+211:Huanghuai Pingyuan
+165:Huabei Pingyuan
+219:Jj Inns Beijing Changchun Street
+164:Jj Inns Beijing Changchun Street
+131:Garden Inn Beijing Xi Dan:Huabei Pingyuan
+130:Xalazakung:Dajum La
+137:Huabei Pingyuan
+136:Huanghuai Pingyuan:Huabei Pingyuan:Jj Inns Beijing Changchun Street
+134:Dobug
+138:Huabei Pingyuan:Mipayuema:Huanghuai Pingyuan
+166:Huanghuai Pingyuan:Quanshuiyanzi
+25:Huabei Pingyuan:Jj Inns Beijing Changchun Street:Huanghuai Pingyuan:Dirang Bicuo
+26:Huanghuai Pingyuan:Liyuan He:Kunlun Mountains:Huabei Pingyuan
+27:Huabei Pingyuan:Yarlhai’ngori:Huanghuai Pingyuan
+20:Huanghuai Pingyuan:Jj Inns Beijing Changchun Street
+21:Dobug:Pengji:Jj Inns Beijing Changchun Street
+22:Huabei Pingyuan
+23:Celang:Huanghuai Pingyuan
+160:Huabei Pingyuan:Jj Inns Beijing Changchun Street:Ordos Gaoyuan
+28:Co Gyakom:Qaidam Pendi
+29:Huanghuai Pingyuan
+161:Dadoka:Jj Inns Beijing Changchun Street:Huabei Pingyuan
+289:Huabei Pingyuan
+4:Huabei Pingyuan
+343:Huanghuai Pingyuan
+8:Ngala:Qinghai Sheng:Huabei Pingyuan
+285:Dobug
+284:Huabei Pingyuan
+119:Huanghuai Pingyuan
+120:Huabei Pingyuan:Kunlun Mountains
+121:Huabei Pingyuan:Baoqinzhaduogabo
+261:Salhai
+260:Huanghuai Pingyuan
+124:Huanghuai Pingyuan:Kunlun Mountains
+125:Huabei Pingyuan
+126:Huabei Pingyuan
+264:Huanghuai Pingyuan
+129:Huabei Pingyuan:Yarlhai’ngori
+268:Kailas Range:Xalazakung
+224:Huabei Pingyuan:Jin Jiang Inn Beijing Guang'anmen
+59:Huabei Pingyuan
+58:Huanghuai Pingyuan:Mipayuema
+55:Ngala:Mipayuema:Huanghuai Pingyuan:Naobei Shan
+54:Naobei Shan
+56:Huanghuai Pingyuan
+51:Jj Inns Beijing Changchun Street
+258:Huanghuai Pingyuan:Jj Inns Beijing Changchun Street
+53:Huabei Pingyuan:Huanghuai Pingyuan
+52:Huabei Pingyuan:Huanghuai Pingyuan
+379:Huanghuai Pingyuan
+259:Huanghuai Pingyuan
+298:Huabei Pingyuan:Burisagang
+299:Bailha Goin:Salhai
+370:Huabei Pingyuan:Jj Inns Beijing Changchun Street
+294:Huanghuai Pingyuan
+295:Huanghuai Pingyuan:Huabei Pingyuan:Jj Inns Beijing Anzhenli
+377:Ragramxung
+291:Huabei Pingyuan
+201:Jj Inns Beijing Anzhenli
+200:Garden Inn Beijing Xi Dan:Jj Inns Beijing Anzhenli
+195:Huabei Pingyuan
+312:Dadoka
+311:Junggar Pendi
+310:Salhai
+191:Jin Jiang Inn Beijing Guang'anmen:Huabei Pingyuan
+203:Huabei Pingyuan
+193:Huanghuai Pingyuan
+115:Jj Inns Beijing Changchun Street
+88:Huanghuai Pingyuan
+89:Huabei Pingyuan
+111:Huabei Pingyuan
+110:Huabei Pingyuan
+112:Baoqinzhaduogabo
+83:Garden Inn Beijing Xi Dan:Pengji:Huabei Pingyuan
+80:Jiu Zhou Commercial Hotel:Toiba
+81:Huanghuai Pingyuan:Dirang Bicuo:Jj Inns Beijing Changchun Street
+86:Daguan Hu
+87:Pengji
+84:Mipayuema:Huanghuai Pingyuan
+204:Huabei Pingyuan
+207:Huanghuai Pingyuan:Rocks Hotel Macau
+206:Ngala
+226:Kailas Range
+257:Huabei Pingyuan:Qinghai Sheng
+3:Garden Inn Beijing Xi Dan:Huanghuai Pingyuan
+254:Huabei Pingyuan
+7:Yarlhai’ngori:Huanghuai Pingyuan:Huabei Pingyuan:Qaidam Pendi
+369:Huabei Pingyuan
+367:Huabei Pingyuan
+365:Huanghuai Pingyuan
+363:Mipayuema:Nu Shan
+308:Nangqara
+309:Daxung
+300:Yarlhai’ngori:Huabei Pingyuan
+305:Huanghuai Pingyuan
+306:Tucaigabo
+381:Huanghuai Pingyuan
+109:Huanghuai Pingyuan
+241:Huanghuai Pingyuan
+240:Huanghuai Pingyuan
+242:Huabei Pingyuan
+102:Huabei Pingyuan:Jj Inns Beijing Changchun Street
+103:Huabei Pingyuan:Huanghuai Pingyuan
+100:Huanghuai Pingyuan:Huabei Pingyuan
+101:Jj Inns Beijing Changchun Street
+106:Huabei Pingyuan:Huanghuai Pingyuan:Nangqara
+107:Huanghuai Pingyuan
+104:Junggar Pendi:Huanghuai Pingyuan
+105:Junggar Pendi
+38:Mipayuema:Huabei Pingyuan
+33:Huabei Pingyuan:Jj Inns Beijing Changchun Street
+32:Huanghuai Pingyuan:Xalazakung
+31:Kailas Range:Jj Inns Beijing Changchun Street
+30:Huabei Pingyuan:Huanghuai Pingyuan
+37:Huabei Pingyuan
+36:Nangqara
+35:Huabei Pingyuan
+34:Huanghuai Pingyuan
+383:Ngala
+376:Huabei Pingyuan
+223:Huanghuai Pingyuan
+336:Huanghuai Pingyuan
+176:Huanghuai Pingyuan:Ngala
+332:Kailas Range
+60:Huanghuai Pingyuan
+61:Alataw Shan:Huanghuai Pingyuan
+62:Huanghuai Pingyuan
+63:Huanghuai Pingyuan:Mipayuema:Huabei Pingyuan
+65:Huabei Pingyuan
+66:Junggar Pendi:Huabei Pingyuan
+69:Huabei Pingyuan:Huanghuai Pingyuan
+175:Hutongren Creative Culture Hotel
+251:Huanghuai Pingyuan:Huabei Pingyuan
+253:Huabei Pingyuan
+172:Jj Inns Beijing Changchun Street:Huanghuai Pingyuan
+171:Huabei Pingyuan
+255:Junggar Pendi
+390:Huabei Pingyuan
+272:Huabei Pingyuan
+313:Pengji
+180:Huabei Pingyuan:Huanghuai Pingyuan
+2:Kunlun Mountains:Tarim Pendi
+162:Pengji:Huabei Pingyuan:Xiaoping Dao
+187:Karakorum Shan
+6:Huabei Pingyuan:Mipayuema
+186:Huabei Pingyuan:Qaidam Pendi
+188:Kailas Range:Wa Ri
+202:Huabei Pingyuan
+317:Huanghuai Pingyuan
+185:Tucaigabo
+315:Huanghuai Pingyuan:Dadoka
+99:Jj Inns Beijing Changchun Street
+98:Alataw Shan
+168:Huanghuai Pingyuan
+169:Huabei Pingyuan
+228:Huanghuai Pingyuan:Autumn Garden Courtyard Hotel
+91:Huabei Pingyuan:Tarim Pendi:Qaidam Pendi:Gyangtangboimar Qu
+90:Qinghai Sheng:Toiba
+93:Tarim Pendi:Dirang Bicuo
+92:Co Gyakom
+95:Tarim Pendi:Huabei Pingyuan
+94:Huabei Pingyuan
+97:Qinghai Sheng:Huabei Pingyuan
+163:Jj Inns Beijing Changchun Street:Xiaoping Dao
+11:Huanghuai Pingyuan:Jj Inns Beijing Changchun Street:Qinghai Sheng
+10:Ngala:Mipayuema
+13:Jj Inns Beijing Changchun Street:Celang
+12:Huanghuai Pingyuan:Jj Inns Beijing Changchun Street
+15:Qaidam Pendi:Huanghuai Pingyuan:Jj Inns Beijing Changchun Street:Nangqara:Baoqinzhaduogabo
+14:Huabei Pingyuan
+17:Gyangtangboimar Qu:Jj Inns Beijing Changchun Street
+16:Huabei Pingyuan:Huanghuai Pingyuan
+19:Huanghuai Pingyuan:Jj Inns Beijing Changchun Street
+18:Huanghuai Pingyuan:Jj Inns Beijing Changchun Street
+117:Kailas Range:Xalazakung:Huanghuai Pingyuan
+349:Huabei Pingyuan
+116:Huanghuai Pingyuan:Wa Ri
+388:Huabei Pingyuan
+151:Pengji
+150:Ngala:Huabei Pingyuan:Jj Inns Beijing Changchun Street:Celang
+153:Xiaoping Dao
+372:Huanghuai Pingyuan
+155:Tucaigabo
+154:Huanghuai Pingyuan:Xiaoping Dao:Yake Shan
+157:Nangqara:Huabei Pingyuan:Pagsum Co
+156:Pungra Qu:Yarlhai’ngori
+159:Salhai:Yake Shan
+158:Daxung:Huanghuai Pingyuan:Liyuan He
+277:Jj Inns Beijing Changchun Street
+238:Pengji:Qinghai Sheng:Huanghuai Pingyuan
+236:Huanghuai Pingyuan
+237:Huabei Pingyuan
+231:Huabei Pingyuan
+232:Huabei Pingyuan
+48:Huabei Pingyuan
+49:Garden Inn Beijing Xi Dan
+47:Jj Inns Beijing Changchun Street:Ordos Gaoyuan
+44:Huabei Pingyuan:Tucaigabo:Nangqara:Xalazakung
+45:Co Gyakom:Huanghuai Pingyuan
+42:Qaidam Pendi
+43:Qinghai Sheng:Yarlhai’ngori
+40:Da Hinggan Ling:Nu Shan
+41:Huabei Pingyuan:Huanghuai Pingyuan
+1:Nu Shan:Huanghuai Pingyuan
+5:Huabei Pingyuan:Jj Inns Beijing Changchun Street
+324:Huabei Pingyuan
+325:Huabei Pingyuan
+9:Huabei Pingyuan:Huanghuai Pingyuan
+328:Dobug
+146:Pengji
+147:Huabei Pingyuan:Xiaoping Dao
+144:Huanghuai Pingyuan:Huabei Pingyuan:Yake Shan
+145:Huabei Pingyuan:Huanghuai Pingyuan:Xiaoping Dao
+142:Huabei Pingyuan
+143:Huanghuai Pingyuan:Pengji:Huabei Pingyuan
+140:Huabei Pingyuan:Xiaoping Dao
+141:Huanghuai Pingyuan:Xiaoping Dao
+148:Huabei Pingyuan:Xiaoping Dao
+149:Yarlhai’ngori:Huabei Pingyuan:Shandong Bandao
+77:Huanghuai Pingyuan:Huabei Pingyuan
+76:Jj Inns Beijing Changchun Street
+75:Kailas Range:Liyuan He:Huanghuai Pingyuan
+72:Huanghuai Pingyuan
+71:Huanghuai Pingyuan
+70:Co Nyoinba
+79:Garden Inn Beijing Xi Dan:Huanghuai Pingyuan
+78:Huanghuai Pingyuan
+262:Huabei Pingyuan
+270:Huanghuai Pingyuan
+356:Huabei Pingyuan
+353:Jj Inns Beijing Changchun Street:Salhai
+352:Huabei Pingyuan:Huanghuai Pingyuan

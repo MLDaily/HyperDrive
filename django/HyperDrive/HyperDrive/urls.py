@@ -20,4 +20,9 @@ from Drive import views
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
     url(r'^$', views.home, name='home' ),
+    url(r'^user/', views.profile, name='profile' ),
+    url(r'^logout/', views.logout, name='logout' ),
+    url(r'^login/', views.login, name='login' ),
+    url(r'^group_recommendations/', views.group, name='group' ),
+    url(r'^personal_recommendations/', views.personal, name='personal' ),
 ]
