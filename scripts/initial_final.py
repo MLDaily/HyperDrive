@@ -56,14 +56,14 @@ def write_to_file(fname, x, uid):
 def begin(folder = "000"):
     path = os.getcwd() 
     path = path[:-7]
-    path += "/gps data/"
+    path += "gps data/"
     os.chdir(path + folder + "/Trajectory/coord/")
-    nof = len(os.listdir())
-    print("nof: " + str(nof))
+    # print path+ folder + "/Trajectory/coord/"
+    nof = len(os.listdir(path + folder + "/Trajectory/coord/"))
+    # print("nof: " + str(nof))
     # os.chdir(path)
-    for fno in range(1, nof):
+    for fno in range(1, nof-2):
         filename = str(fno) + ".txt"
-        # f = open(folder + "/Trajectory/coord/" + filename, "r")
         f = open(filename, "r")
         lat = []
         lon = []
@@ -79,25 +79,20 @@ def begin(folder = "000"):
         
         f.close()
         initial, final = get_initial_final(lat, lon, tim)
-        # print("Initial:")
-        # print(initial)
-        # print("\nFinal:")
-        # print(final)
+        
         distance = get_distance(initial, final)
-        # print("\nDistance:")
-        # print(distance)
-
+        
         write_to_file("initial.txt", initial, fno)
         write_to_file("final.txt", final, fno)
 
-
 def go():
+    path = os.getcwd()
     for i in range(0,10):
-        path = os.getcwd()
         fname = "00" + str(i)
         begin(fname)
         os.chdir(path)
+    # begin('010')
+    # os.chdir(path)
 
 if __name__ == "__main__":
     go()
-
