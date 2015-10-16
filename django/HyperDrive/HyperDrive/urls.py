@@ -25,4 +25,5 @@ urlpatterns = [
     url(r'^login/', views.login, name='login' ),
     url(r'^group_recommendations/', views.group, name='group' ),
     url(r'^personal_recommendations/', views.personal, name='personal' ),
+    url(r'^addplaces/', views.addplace, name='addplace' ),
 ]
