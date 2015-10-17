@@ -9,8 +9,8 @@ def fetch():
 
     count = 0
 
-    f = open('checkin_latlon.txt', 'r')
-    nf = open('checkin_locations.txt', 'r')
+    f = open('../checkin_latlon.txt', 'r')
+    nf = open('../checkin_locations.txt', 'r')
 
     for nline in nf:
         count += 1
@@ -20,7 +20,7 @@ def fetch():
 
     nf.close()
 
-    nf = open('checkin_locations.txt', 'a')
+    nf = open('../checkin_locations.txt', 'a')
 
     for line in f:
         try:
@@ -28,12 +28,12 @@ def fetch():
             address = location.address
             new_line = line[:-1] + ',"' + address + '"\n'
             nf.write(new_line)
-            sleep(random())
+            # sleep(random())
             print(new_line)
         except GeocoderTimedOut:
             nf.close()
             f.close()
-            sleep(10)
+            # sleep(10)
             fetch()
 
     nf.close()
