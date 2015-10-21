@@ -9,7 +9,7 @@ def write_to_file(fname, locations):
             f.write(i[0]+','+i[1]+','+i[2]+','+i[3]+','+i[4]+','+i[5]+','+i[6]+'\n')
 
 def locations_list():
-    with open("../CN/CN.txt",'r') as f:
+    with open("../CN/IN.txt",'r') as f:
         lines = f.read().split('\n')
         locations = []
         count =0
@@ -25,4 +25,7 @@ def locations_list():
 
         print len(locations), count
 
-        write_to_file('../CN/CN_places.txt',locations)
+        write_to_file('../CN/IN_places.txt',locations)
+
+if __name__ == '__main__':
+    locations_list()
